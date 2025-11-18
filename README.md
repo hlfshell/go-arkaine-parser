@@ -1,3 +1,7 @@
+# Deprecated
+
+This repos has been deprecated in favor of a rebuild into [structured-parse](https://github.com/hlfshell/structured-parse).
+
 # arkaine-parser
 
 **arkaine-parser** is a Go module for robustly parsing stochastic, structured, or semi-structured outputs from Large Language Models (LLMs) into clean, agent-ready data structures. It is inspired by the original [arkaine parser](https://arkaine.dev) and designed for easy integration into any Go AI or agentic workflow.
